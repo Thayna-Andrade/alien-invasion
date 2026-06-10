@@ -12,7 +12,7 @@ Você controla uma nave espacial na parte inferior da tela e deve destruir uma f
 - **Tabela de recordes**: As 3 melhores pontuações são salvas localmente
 - **Progressão de dificuldade**: A velocidade aumenta a cada nível
 - **Tela de Game Over**: Mostra sua pontuação final e os recordes
-- **Sistema de vidas**: Você tem 3 naves por partida
+- **Sistema de vidas**: Você tem 1 nave por partida
 - **Controles simples e responsivos**
 
 ## 🎮 Como Jogar
