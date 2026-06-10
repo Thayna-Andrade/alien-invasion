@@ -1,4 +1,4 @@
-# # 🚀 Alien Invasion - Space Shooter Game
+ # 🚀 Alien Invasion - Space Shooter Game
 
 Um jogo clássico de tiro espacial desenvolvido em Python com Pygame, baseado no projeto do livro "Python Crash Course" de Eric Matthes.
 
